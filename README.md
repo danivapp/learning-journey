@@ -13,7 +13,9 @@ Each entry includes:
 - **Course Name & Provider** (Coursera, edX, Udemy, etc.)  
 - **Completion Date**  
 - **Certificate Link** (if available)  
-- **Key Learnings / Skills Gained**  
+- **Key Learnings / Skills Gained**
+
+- 👉 See the full list here: [Completed Courses](./completedCourses.md)  
 
 ## 🚀 Why this repo?  
 I believe learning is a continuous process. By keeping a transparent record here, I can not only reflect on my growth but also give potential collaborators and employers insight into my background.  
