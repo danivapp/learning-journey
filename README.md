@@ -8,13 +8,6 @@ This repository is where I keep track of the courses, certifications, and traini
 - Share summaries, key takeaways, and certificates from each course.  
 - Connect learning outcomes to my projects on [GitHub](https://github.com/danivapp).  
 
-## 🗂️ Structure  
-Each entry includes:  
-- **Course Name & Provider** (Coursera, edX, Udemy, etc.)  
-- **Completion Date**  
-- **Certificate Link** (if available)  
-- **Key Learnings / Skills Gained**
-
 - 👉 See the full list here: [Completed Courses](./completedCourses.md)  
 
 ## 🚀 Why this repo?  
