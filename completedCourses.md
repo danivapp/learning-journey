@@ -26,6 +26,19 @@
 
 ---
 
+### Practical QGIS For Spatial Data Analysis: Beginner to Expert (Udemy)  
+📅 Completion Date: August 2023  
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-412e0448-0c35-4525-a74b-7c06c5a9a79c/)  
+📝 Key Learnings:  
+- Navigating the QGIS interface and managing spatial data  
+- Working with vector and raster datasets  
+- Spatial analysis: buffering, overlay, and geoprocessing  
+- Map design, symbology, and labeling for effective cartography  
+- Automating workflows with QGIS tools and plugins
+
+
+---
+
 ### Digital Image Processing with OpenCV in Python (Geo University)  
 📅 Completion Date: September 2025  
 🔗 [View Certificate](https://www.geo.university/certificates/qpxaibrgdd)  
