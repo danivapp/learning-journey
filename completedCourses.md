@@ -14,7 +14,7 @@
 ---
 
 ### 2. GIS Data Formats, Design and Quality (Coursera)  
-📅 Completion Date: August 2025  
+📅 Completion Date: August 2023  
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/certificate/DXKL9ESJFM2N)  
 📝 Key Learnings:  
 - Understanding data formats: shapefiles, geodatabases, raster data  
