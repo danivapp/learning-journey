@@ -6,7 +6,7 @@ This repository is where I keep track of the courses, certifications, and traini
 ## 🎯 Purpose  
 - Serve as a **living CV** of my continuous learning.  
 - Share summaries, key takeaways, and certificates from each course.  
-- Connect learning outcomes to my projects on [GitHub](https://github.com/YOURUSERNAME).  
+- Connect learning outcomes to my projects on [GitHub](https://github.com/danivapp).  
 
 ## 🗂️ Structure  
 Each entry includes:  
