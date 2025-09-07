@@ -26,7 +26,7 @@
 
 ---
 
-### Practical QGIS For Spatial Data Analysis: Beginner to Expert (Udemy)  
+### 3.Practical QGIS For Spatial Data Analysis: Beginner to Expert (Udemy)  
 📅 Completion Date: August 2023  
 🔗 [View Certificate](https://www.udemy.com/certificate/UC-412e0448-0c35-4525-a74b-7c06c5a9a79c/)  
 📝 Key Learnings:  
@@ -40,7 +40,7 @@
 ---
 
 
-### Complete Basic GIS Tasks in ArcGIS, Erdas, and Remote Sensing (Udemy)  
+### 4.Complete Basic GIS Tasks in ArcGIS, Erdas, and Remote Sensing (Udemy)  
 📅 Completion Date: September 2023 
 🔗 [View Certificate](https://www.udemy.com/certificate/UC-XXXXXXXX/)  
 📝 Key Learnings:  
@@ -52,7 +52,7 @@
 
 ---
 
-### Digital Image Processing with OpenCV in Python (Geo University)  
+### 5.Digital Image Processing with OpenCV in Python (Geo University)  
 📅 Completion Date: September 2025  
 🔗 [View Certificate](https://www.geo.university/certificates/qpxaibrgdd)  
 📝 Key Learnings:  
@@ -65,7 +65,7 @@
 
 ---
 
-### Satellite Remote Sensing Data Bootcamp with Open Source Tools (Udemy)  
+### 6.Satellite Remote Sensing Data Bootcamp with Open Source Tools (Udemy)  
 📅 Completion Date: September 2025  
 🔗 [View Certificate](https://www.udemy.com/certificate/UC-XXXXXXXX/)  
 📝 Key Learnings:  
