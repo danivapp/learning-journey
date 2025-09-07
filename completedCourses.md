@@ -39,6 +39,19 @@
 
 ---
 
+
+### Complete Basic GIS Tasks in ArcGIS, Erdas, and Remote Sensing (Udemy)  
+📅 Completion Date: September 2023 
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-XXXXXXXX/)  
+📝 Key Learnings:  
+- Introduction to ArcGIS and Erdas Imagine workflows  
+- Handling vector and raster data for basic GIS analysis  
+- Performing remote sensing tasks such as classification and change detection  
+- Map creation and layout design for presentation  
+- Practical exercises applying remote sensing to environmental datasets
+
+---
+
 ### Digital Image Processing with OpenCV in Python (Geo University)  
 📅 Completion Date: September 2025  
 🔗 [View Certificate](https://www.geo.university/certificates/qpxaibrgdd)  
@@ -47,4 +60,19 @@
 - Image filtering, transformations, and edge detection  
 - Working with color spaces and histograms  
 - Applying OpenCV functions for feature extraction  
-- Practical applications in remote sensing & computer vision  
+- Practical applications in remote sensing & computer vision
+
+
+---
+
+### Satellite Remote Sensing Data Bootcamp with Open Source Tools (Udemy)  
+📅 Completion Date: September 2025  
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-XXXXXXXX/)  
+📝 Key Learnings:  
+- Downloading and managing different types of satellite remote sensing data (free sources)  
+- Understanding remote sensing concepts and real-world applications  
+- Pre-processing satellite data using **R** and **QGIS**  
+- Performing **unsupervised** and **supervised classification** of satellite data  
+- Applying **machine learning algorithms** to remote sensing analysis in R  
+- Conducting **habitat suitability mapping** with remote sensing + ML  
+- Using additional open-source tools such as **Google Earth Engine** and **SNAP** for RS data analysis  
