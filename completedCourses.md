@@ -42,7 +42,6 @@
 
 ### 4.Complete Basic GIS Tasks in ArcGIS, Erdas, and Remote Sensing (Udemy)  
 📅 Completion Date: September 2023 
-🔗 [View Certificate](https://www.udemy.com/certificate/UC-XXXXXXXX/)  
 📝 Key Learnings:  
 - Introduction to ArcGIS and Erdas Imagine workflows  
 - Handling vector and raster data for basic GIS analysis  
@@ -67,7 +66,6 @@
 
 ### 6.Satellite Remote Sensing Data Bootcamp with Open Source Tools (Udemy)  
 📅 Completion Date: September 2025  
-🔗 [View Certificate](https://www.udemy.com/certificate/UC-XXXXXXXX/)  
 📝 Key Learnings:  
 - Downloading and managing different types of satellite remote sensing data (free sources)  
 - Understanding remote sensing concepts and real-world applications  
