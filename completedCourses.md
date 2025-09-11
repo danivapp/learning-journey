@@ -78,3 +78,29 @@ Grade achieved (based on assignment): 93.81%
 - Applying **machine learning algorithms** to remote sensing analysis in R  
 - Conducting **habitat suitability mapping** with remote sensing + ML  
 - Using additional open-source tools such as **Google Earth Engine** and **SNAP** for RS data analysis  
+
+
+---
+
+## 🚧 Currently in progress
+
+- [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) — *in progress*  
+  **Key Learnings:**  
+  - Understanding basic programming concepts in Python (variables, loops, conditionals)  
+  - Writing clean, readable code (good variable names, comments, structure)  
+  - Version control with Git & GitHub for tracking code and collaborating  
+  - Using tools like Jupyter Notebooks / cloud environments for reproducible scientific analysis  
+  - Data analysis basics: loading, manipulating, visualizing data with Python
+ 
+---
+
+- [AutoGIS](https://autogis-site.readthedocs.io/en/latest/) — *in progress*  
+  **Key Learnings:**  
+  - Handling geospatial data using tools like GeoPandas: reading/writing, CRS handling, spatial joins  
+  - Working with geometry objects (points, lines, polygons) using Shapely  
+  - Spatial queries, geocoding, overlay analysis  
+  - Visualisation of spatial data: static maps, interactive mapping  
+  - Exploring network analysis (e.g. with OSMnx, NetworkX) and handling raster data  
+  - Good programming practices, documentation & reproducible workflows (Git, online repos)  
+
+
