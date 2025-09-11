@@ -3,6 +3,7 @@
 ### 1. Fundamentals of GIS (Coursera)  
 📅 Completion Date: August 2023  
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/certificate/JCFAV9T6RBDR)  
+Grade achieved (based on assignment): 96.32%
 📝 Key Learnings:  
 - Understanding spatial data types (vector vs raster)  
 - Using coordinate systems and map projections  
@@ -16,6 +17,7 @@
 ### 2. GIS Data Formats, Design and Quality (Coursera)  
 📅 Completion Date: August 2023  
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/certificate/DXKL9ESJFM2N)  
+Grade achieved (based on assignment): 93.81%
 📝 Key Learnings:  
 - Understanding data formats: shapefiles, geodatabases, raster data  
 - Metadata and documentation for spatial datasets  
@@ -42,6 +44,7 @@
 
 ### 4.Complete Basic GIS Tasks in ArcGIS, Erdas, and Remote Sensing (Udemy)  
 📅 Completion Date: September 2023 
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-19ff4b36-834c-4f32-b98a-3af2fe48dd85/)  
 📝 Key Learnings:  
 - Introduction to ArcGIS and Erdas Imagine workflows  
 - Handling vector and raster data for basic GIS analysis  
@@ -66,6 +69,7 @@
 
 ### 6.Satellite Remote Sensing Data Bootcamp with Open Source Tools (Udemy)  
 📅 Completion Date: September 2025  
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-3755bd34-94ed-4b1d-bba8-bff6a6394d33/)  
 📝 Key Learnings:  
 - Downloading and managing different types of satellite remote sensing data (free sources)  
 - Understanding remote sensing concepts and real-world applications  
