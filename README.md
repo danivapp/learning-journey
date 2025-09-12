@@ -8,7 +8,7 @@ This repository is where I keep track of the courses, certifications, and traini
 - Share summaries, key takeaways, and certificates from each course.  
 - Connect learning outcomes to my projects on [GitHub](https://github.com/danivapp).  
 
-- 👉 See the full list here: [Completed Courses](./completedCourses.md)  
+- 👉 See the full list here: [Completed Courses & In progress](./completedCourses.md)  
 
 ## 🚀 Why this repo?  
 I believe learning is a continuous process. By keeping a transparent record here, I can not only reflect on my growth but also give potential collaborators and employers insight into my background.  
