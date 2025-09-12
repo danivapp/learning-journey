@@ -3,7 +3,8 @@
 ### 1. Fundamentals of GIS (Coursera)  
 📅 Completion Date: August 2023  
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/certificate/JCFAV9T6RBDR)  
-Grade achieved (based on assignment): 96.32%
+Grade achieved (based on assignment): 96.32%  
+
 📝 Key Learnings:  
 - Understanding spatial data types (vector vs raster)  
 - Using coordinate systems and map projections  
@@ -17,7 +18,8 @@ Grade achieved (based on assignment): 96.32%
 ### 2. GIS Data Formats, Design and Quality (Coursera)  
 📅 Completion Date: August 2023  
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/certificate/DXKL9ESJFM2N)  
-Grade achieved (based on assignment): 93.81%
+Grade achieved (based on assignment): 93.81%  
+
 📝 Key Learnings:  
 - Understanding data formats: shapefiles, geodatabases, raster data  
 - Metadata and documentation for spatial datasets  
@@ -28,9 +30,10 @@ Grade achieved (based on assignment): 93.81%
 
 ---
 
-### 3.Practical QGIS For Spatial Data Analysis: Beginner to Expert (Udemy)  
+### 3. Practical QGIS For Spatial Data Analysis: Beginner to Expert (Udemy)  
 📅 Completion Date: August 2023  
 🔗 [View Certificate](https://www.udemy.com/certificate/UC-412e0448-0c35-4525-a74b-7c06c5a9a79c/)  
+
 📝 Key Learnings:  
 - Navigating the QGIS interface and managing spatial data  
 - Working with vector and raster datasets  
@@ -42,9 +45,10 @@ Grade achieved (based on assignment): 93.81%
 ---
 
 
-### 4.Complete Basic GIS Tasks in ArcGIS, Erdas, and Remote Sensing (Udemy)  
-📅 Completion Date: September 2023 
+### 4. Complete Basic GIS Tasks in ArcGIS, Erdas, and Remote Sensing (Udemy)  
+📅 Completion Date: September 2023  
 🔗 [View Certificate](https://www.udemy.com/certificate/UC-19ff4b36-834c-4f32-b98a-3af2fe48dd85/)  
+
 📝 Key Learnings:  
 - Introduction to ArcGIS and Erdas Imagine workflows  
 - Handling vector and raster data for basic GIS analysis  
@@ -54,9 +58,11 @@ Grade achieved (based on assignment): 93.81%
 
 ---
 
-### 5.Digital Image Processing with OpenCV in Python (Geo University)  
+### 5. Digital Image Processing with OpenCV in Python (Geo University)  
 📅 Completion Date: September 2025  
 🔗 [View Certificate](https://www.geo.university/certificates/qpxaibrgdd)  
+
+
 📝 Key Learnings:  
 - Fundamentals of digital image processing  
 - Image filtering, transformations, and edge detection  
@@ -67,9 +73,11 @@ Grade achieved (based on assignment): 93.81%
 
 ---
 
-### 6.Satellite Remote Sensing Data Bootcamp with Open Source Tools (Udemy)  
+### 6. Satellite Remote Sensing Data Bootcamp with Open Source Tools (Udemy)  
 📅 Completion Date: September 2025  
 🔗 [View Certificate](https://www.udemy.com/certificate/UC-3755bd34-94ed-4b1d-bba8-bff6a6394d33/)  
+**Language:** Python  
+
 📝 Key Learnings:  
 - Downloading and managing different types of satellite remote sensing data (free sources)  
 - Understanding remote sensing concepts and real-world applications  
@@ -84,8 +92,12 @@ Grade achieved (based on assignment): 93.81%
 
 ## 🚧 Currently in progress
 
-- [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) — *in progress*  
-  **Key Learnings:**  
+### 7. GEO Python (University of Helsinki)
+📅 Completion Date: *in progress*   
+[Course Website](https://geo-python-site.readthedocs.io/en/latest/)  
+**Language:** Python 
+
+📝 Key Learnings:  
   - Understanding basic programming concepts in Python (variables, loops, conditionals)  
   - Writing clean, readable code (good variable names, comments, structure)  
   - Version control with Git & GitHub for tracking code and collaborating  
@@ -94,8 +106,12 @@ Grade achieved (based on assignment): 93.81%
  
 ---
 
-- [AutoGIS](https://autogis-site.readthedocs.io/en/latest/) — *in progress*  
-  **Key Learnings:**  
+### 8. Automating GIS processes II (University of Helsinki)
+📅 Completion Date: *in progress*   
+[Course Website](https://autogis-site.readthedocs.io/en/latest/)  
+**Language:** Python 
+ 
+ 📝 Key Learnings:
   - Handling geospatial data using tools like GeoPandas: reading/writing, CRS handling, spatial joins  
   - Working with geometry objects (points, lines, polygons) using Shapely  
   - Spatial queries, geocoding, overlay analysis  
